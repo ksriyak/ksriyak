@@ -13,7 +13,7 @@
 I'm studying **Artificial Intelligence Systems** at Vilnius Gediminas Technical University. Most of what I build comes out of hackathon weekends (I'm tryna change that and be consistent haha). I like taking an idea from a napkin sketch to a working demo in a few hours, especially when it's about making tech more accessible and inclusive <<<3
 
 - 🏆 **1st Place - Visma AI Hackathon 2026**, an AI accessibility tool reimagining digital interfaces as full sensory experiences for visually impaired users
-- 🩺 Researcher on **Project HerBridge** (EIT Health / Boehringer Ingelheim) — healthcare innovation & prototyping
+- 🩺 Researcher on **Project HerBridge** (EIT Health / Boehringer Ingelheim) - healthcare innovation & prototyping
 - 🤖 Tested an 8-agent orchestration interface at the **IBM Watsonx Hackathon**
 - 🛡️ Prototyped jailbreak-mitigation techniques at **MERIThON**
 - 🌱 Currently: trying to be consistent with the projects I've taken currently
