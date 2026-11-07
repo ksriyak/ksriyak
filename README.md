@@ -139,7 +139,7 @@ I'm studying **Artificial Intelligence Systems** at Vilnius Gediminas Technical 
 
 <div align="center">
 
-💬 *If any of that landed, feel free to say so — [open an issue](../../issues/new) or drop a note, and if you'd like one written for you, just ask.*
+💬 *If any of that landed, feel free to say so - [open an issue](../../issues/new) or drop a note, and if you'd like one written for you, just ask.*
 
 </div>
 
